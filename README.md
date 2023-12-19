@@ -1,2 +1,2 @@
 # genuary
-Just my solutions of prompts from genuary.art
+Just my solutions of prompts from [Genuary](https://genuary.art/)
